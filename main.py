@@ -1,2 +1,1 @@
-print('hello git world!!!!!!!!!!!')
-print('second update')
+print('goodbye git world!!!!!!!!!!!')
